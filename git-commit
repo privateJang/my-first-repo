@@ -1,0 +1,10 @@
+| Type          | Purpose                                                      | Example                                      |
+| ------------- | ------------------------------------------------------------ | -------------------------------------------- |
+| **build:**    | Changes to the build system or dependencies                  | `build: upgrade webpack to v6`               |
+| **chore:**    | Maintenance tasks that don't affect application code         | `chore: update .gitignore`                   |
+| **ci:**       | Changes to CI/CD pipelines and automation                    | `ci: add GitHub Actions deployment workflow` |
+| **docs:**     | Documentation-only changes                                   | `docs: update API usage examples`            |
+| **style:**    | Code formatting and style changes that don't affect behavior | `style: format code with prettier`           |
+| **refactor:** | Code restructuring without changing behavior                 | `refactor: simplify authentication service`  |
+| **perf:**     | Performance improvements                                     | `perf: optimize database query caching`      |
+| **test:**     | Adding or updating tests                                     | `test: add unit tests for login controller`  |
